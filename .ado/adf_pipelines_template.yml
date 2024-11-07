@@ -2,10 +2,10 @@ parameters:
 - name: environmentObjects
   type: object
   default:
-    - environmentName: 'tst'
+    - environmentName: 'dev'
       regionAbrvs: ['eus']
       locations: ['eastus']
-    - environmentName: 'prd'
+    - environmentName: 'tst'
       regionAbrvs: ['eus']
       locations: ['eastus']
 - name: serviceName
