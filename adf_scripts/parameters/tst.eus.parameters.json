@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "factoryName": {
-            "value": "adf-ir-dev-eus"
+            "value": "adf-ir-tst-eus"
         },
         "SelfHostedIR_properties_typeProperties_linkedInfo_resourceId": {
             "value": "/subscriptions/35ce8cef-94f9-4dba-9c61-a09396fec7cf/resourcegroups/rg-adfir-prd-eus/providers/Microsoft.DataFactory/factories/adf-ir-prd-eus/integrationruntimes/SelftHostedIR"
