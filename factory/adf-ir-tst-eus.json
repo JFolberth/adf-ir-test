@@ -1,0 +1,9 @@
+{
+	"name": "adf-ir-tst-eus",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c033b0f-e0c5-4951-a275-331daf3da8d3",
+		"tenantId": "3d665456-725f-48dc-af77-e54653f2cd3e"
+	}
+}
